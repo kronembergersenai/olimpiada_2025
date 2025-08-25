@@ -1,1 +1,2 @@
-# olimpiada_2025
+# OC2025
+TREINAMENTO OC2025
