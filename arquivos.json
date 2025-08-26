@@ -1,0 +1,75 @@
+{
+  "_INSTRUCOES": {
+    "IMPORTANTE": "Para que os arquivos sejam acessíveis publicamente, siga estas etapas:",
+    "PASSO_1": "Faça upload dos seus arquivos para o Google Drive",
+    "PASSO_2": "Para cada arquivo, clique com botão direito > Compartilhar",
+    "PASSO_3": "Em 'Acesso geral', altere de 'Restrito' para 'Qualquer pessoa com o link'",
+    "PASSO_4": "Mantenha a permissão como 'Visualizador'",
+    "PASSO_5": "Copie o link compartilhado",
+    "PASSO_6": "Substitua 'SUBSTITUA_PELO_SEU_ID' pelo ID real do seu arquivo",
+    "EXEMPLO": "Se o link for https://drive.google.com/file/d/1ABC123XYZ789/view?usp=sharing, o ID é '1ABC123XYZ789'",
+    "FORMATO_CORRETO": "https://drive.google.com/file/d/ID_REAL_DO_ARQUIVO/view?usp=sharing",
+    "OBSERVACAO": "O sistema irá automaticamente converter os links para acesso direto público"
+  },
+  "18": [
+    {
+      "id": 1,
+      "nome": "TREINAMENTO EXPERT-SENAIDN",
+      "link": "https://drive.google.com/file/d/SUBSTITUA_PELO_SEU_ID/view?usp=sharing",
+      "dataAdicao": "2025-08-24",
+      "observacoes": "CONFIGURE: Substitua SUBSTITUA_PELO_SEU_ID pelo ID real do seu arquivo do Google Drive"
+    },
+    {
+      "id": 2,
+      "nome": "PROGRAMA SAÚDE E SEGURANÇA",
+      "link": "https://drive.google.com/file/d/SUBSTITUA_PELO_SEU_ID/view?usp=sharing",
+      "dataAdicao": "2025-08-24",
+      "observacoes": "CONFIGURE: Substitua SUBSTITUA_PELO_SEU_ID pelo ID real do seu arquivo do Google Drive"
+    },
+    {
+      "id": 3,
+      "nome": "EXEMPLO - Manual de Instalações",
+      "link": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/view?usp=sharing",
+      "dataAdicao": "2025-08-26",
+      "observacoes": "Exemplo de arquivo configurado corretamente - público e acessível"
+    }
+  ],
+  "19": [
+    {
+      "id": 1,
+      "nome": "PROVAS DO NACIONAL",
+      "link": "https://drive.google.com/file/d/SUBSTITUA_PELO_SEU_ID/view?usp=sharing",
+      "dataAdicao": "2025-08-24",
+      "observacoes": "CONFIGURE: Substitua SUBSTITUA_PELO_SEU_ID pelo ID real do seu arquivo do Google Drive"
+    },
+    {
+      "id": 2,
+      "nome": "PROGRAMA SAÚDE E SEGURANÇA",
+      "link": "https://drive.google.com/file/d/SUBSTITUA_PELO_SEU_ID/view?usp=sharing",
+      "dataAdicao": "2025-08-24",
+      "observacoes": "CONFIGURE: Substitua SUBSTITUA_PELO_SEU_ID pelo ID real do seu arquivo do Google Drive"
+    },
+    {
+      "id": 3,
+      "nome": "INVERSORES DE FREQUÊNCIA",
+      "link": "https://drive.google.com/file/d/SUBSTITUA_PELO_SEU_ID/view?usp=sharing",
+      "dataAdicao": "2025-08-24",
+      "observacoes": "CONFIGURE: Substitua SUBSTITUA_PELO_SEU_ID pelo ID real do seu arquivo do Google Drive"
+    },
+    {
+      "id": 4,
+      "nome": "EXEMPLO - Tutorial TIA Portal",
+      "link": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/view?usp=sharing",
+      "dataAdicao": "2025-08-26",
+      "observacoes": "Exemplo de arquivo configurado corretamente - público e acessível"
+    }
+  ],
+  "_DICAS_IMPORTANTES": {
+    "TESTE_ACESSO": "Teste o link em uma janela anônima/incógnito para verificar se está acessível publicamente",
+    "TIPOS_ARQUIVO": "Funciona com PDF, DOC, XLS, PPT, imagens, vídeos e outros tipos de arquivo",
+    "LIMITACOES": "Arquivos muito grandes (>25MB) podem ter uma página de aviso antes do download",
+    "SEGURANCA": "Apenas compartilhe arquivos que devem ser públicos. Não compartilhe informações sensíveis",
+    "MANUTENCAO": "Se mover ou renomear um arquivo no Drive, o link continuará funcionando",
+    "PERMISSOES": "Se alterar as permissões para 'Restrito', o arquivo ficará inacessível publicamente"
+  }
+}
