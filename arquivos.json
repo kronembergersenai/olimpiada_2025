@@ -1,0 +1,48 @@
+{
+  "18": [
+    {
+      "id": 1,
+      "nome": "Manual de Instalações Elétricas",
+      "link": "https://www.exemplo.com/manual-instalacoes.pdf",
+      "dataAdicao": "2025-08-24"
+    },
+    {
+      "id": 2,
+      "nome": "Normas de Segurança SENAI",
+      "link": "https://www.exemplo.com/normas-seguranca.pdf",
+      "dataAdicao": "2025-08-24"
+    },
+    {
+      "id": 3,
+      "nome": "Vídeo - Instalação de Tomadas",
+      "link": "https://www.youtube.com/watch?v=exemplo123",
+      "dataAdicao": "2025-08-24"
+    }
+  ],
+  "19": [
+    {
+      "id": 1,
+      "nome": "Apostila de Automação Industrial",
+      "link": "https://www.exemplo.com/apostila-automacao.pdf",
+      "dataAdicao": "2025-08-24"
+    },
+    {
+      "id": 2,
+      "nome": "Manual TIA Portal",
+      "link": "https://www.exemplo.com/manual-tia-portal.pdf",
+      "dataAdicao": "2025-08-24"
+    },
+    {
+      "id": 3,
+      "nome": "Exercícios Ladder Logic",
+      "link": "https://www.exemplo.com/exercicios-ladder.zip",
+      "dataAdicao": "2025-08-24"
+    },
+    {
+      "id": 4,
+      "nome": "Vídeo - Programação CLP",
+      "link": "https://www.youtube.com/watch?v=exemplo456",
+      "dataAdicao": "2025-08-24"
+    }
+  ]
+}
